@@ -5,3 +5,8 @@
     height:60px;   /* Height of the footer */
     background:#5e3827;
  }
+
+ .w-100 {
+    width: 75% !important;
+    height: 75vh;
+  }
