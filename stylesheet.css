@@ -10,3 +10,9 @@
     width: 75% !important;
     height: 75vh;
   }
+
+  .w-100b {
+    width:700px;
+    height:500px;
+    overflow:hidden;
+  }
